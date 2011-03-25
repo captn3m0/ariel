@@ -1,0 +1,3 @@
+DATA FILE
+This is the test file
+which ariel tries to edit
